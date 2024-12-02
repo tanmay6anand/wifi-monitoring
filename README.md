@@ -33,7 +33,7 @@ sudo apt-get install speedtest-cli
 ## Usage
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/username/internet-speed-analysis.git
+   git clone git@github.com:tanmay6anand/wifi-monitoring.git
    ```
 2. Place your internet speed log file in the project directory. Make sure the file follows the expected format:
    ```
@@ -147,8 +147,6 @@ Wed Nov 27 04:01:06 AM EST 2024: Speed test failed.
 ## Output
 The script generates a time-series graph that visualizes download speed over time, with each data point representing either a successful speed test or a failed test (represented as 0 Mbit/s).
 
-## Example Output
-![Internet Speed Over Time](example_output.png)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

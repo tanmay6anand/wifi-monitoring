@@ -157,5 +157,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 ## Contact
 If you have any questions, feel free to reach out.
 - **Author**: Tanmay Anand
-- **Email**: your_email@example.com
 
